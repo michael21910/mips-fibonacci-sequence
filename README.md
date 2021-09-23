@@ -1,2 +1,2 @@
-# mips-fibonacci-sequence
+# Mips Fibonacci- Sequence
 Implement Fibonacci sequence using MIPS
